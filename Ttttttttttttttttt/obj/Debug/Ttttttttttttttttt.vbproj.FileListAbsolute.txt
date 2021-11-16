@@ -1,0 +1,106 @@
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe.config
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhaphocsinh.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.Resources.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.pdb
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.xml
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.exe
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.xml
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.pdb
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatlop.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatdiemthi.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatgiaovien.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.ketquacanam.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.ketquahocsinh.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.dangnhap.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.fromchinh.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhathanhkiem.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatnamhoc.resources
+C:\Users\Computer\Desktop\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.CNthemhanhkiemhocsinh.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe.config
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.exe
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.xml
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.pdb
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.pdb
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.xml
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhaphocsinh.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatdiemthi.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatgiaovien.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhathanhkiem.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatlop.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatnamhoc.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.CNthemhanhkiemhocsinh.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.dangnhap.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.fromchinh.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.indsdiemtbmon.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.Resources.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.GenerateResource.Cache
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.saplop.resources
+E:\Ki cuoi\Do an chuyen nganh CNTT\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.daylop.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe.config
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.exe
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.xml
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.pdb
+H:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe
+H:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.pdb
+H:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.xml
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhaphocsinh.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatdiemthi.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatgiaovien.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhathanhkiem.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatlop.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatnamhoc.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.CNthemhanhkiemhocsinh.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.dangnhap.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.daylop.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.fromchinh.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.indsdiemtbmon.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.Resources.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.saplop.resources
+H:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.GenerateResource.Cache
+E:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe.config
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.exe
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.xml
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.pdb
+E:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe
+E:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.pdb
+E:\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.xml
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhaphocsinh.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatdiemthi.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatgiaovien.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhathanhkiem.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatlop.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatnamhoc.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.CNthemhanhkiemhocsinh.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.dangnhap.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.daylop.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.fromchinh.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.indsdiemtbmon.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.Resources.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.saplop.resources
+E:\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.exe
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.xml
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.pdb
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe.config
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.exe
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.pdb
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\bin\Debug\Ttttttttttttttttt.xml
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhaphocsinh.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatdiemthi.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatgiaovien.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhathanhkiem.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatlop.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.capnhatnamhoc.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.CNthemhanhkiemhocsinh.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.dangnhap.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.daylop.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.fromchinh.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.indsdiemtbmon.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.saplop.resources
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\Ttttttttttttttttt\Ttttttttttttttttt\Ttttttttttttttttt\obj\Debug\Ttttttttttttttttt.vbproj.CoreCompileInputs.cache

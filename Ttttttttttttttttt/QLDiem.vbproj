@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68D7A9EE-392F-42D0-98F8-04870C22F470}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Ttttttttttttttttt.My.MyApplication</StartupObject>
+    <RootNamespace>Ttttttttttttttttt</RootNamespace>
+    <AssemblyName>Ttttttttttttttttt</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Ttttttttttttttttt.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Ttttttttttttttttt.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="capnhaphocsinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhaphocsinh.Designer.vb">
+      <DependentUpon>capnhaphocsinh.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatdiemthi.Designer.vb">
+      <DependentUpon>capnhatdiemthi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatdiemthi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatgiaovien.Designer.vb">
+      <DependentUpon>capnhatgiaovien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatgiaovien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhathanhkiem.Designer.vb">
+      <DependentUpon>capnhathanhkiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capnhathanhkiem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatlop.Designer.vb">
+      <DependentUpon>capnhatlop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatlop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatnamhoc.Designer.vb">
+      <DependentUpon>capnhatnamhoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatnamhoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNthemhanhkiemhocsinh.Designer.vb">
+      <DependentUpon>CNthemhanhkiemhocsinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CNthemhanhkiemhocsinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangnhap.Designer.vb">
+      <DependentUpon>dangnhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dangnhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daylop.Designer.vb">
+      <DependentUpon>daylop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daylop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formchinh.Designer.vb">
+      <DependentUpon>formchinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formchinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="indsdiemtbmon.Designer.vb">
+      <DependentUpon>indsdiemtbmon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="indsdiemtbmon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ketnoi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="saplop.Designer.vb">
+      <DependentUpon>saplop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="saplop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="capnhaphocsinh.resx">
+      <DependentUpon>capnhaphocsinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatdiemthi.resx">
+      <DependentUpon>capnhatdiemthi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatgiaovien.resx">
+      <DependentUpon>capnhatgiaovien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhathanhkiem.resx">
+      <DependentUpon>capnhathanhkiem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatlop.resx">
+      <DependentUpon>capnhatlop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatnamhoc.resx">
+      <DependentUpon>capnhatnamhoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNthemhanhkiemhocsinh.resx">
+      <DependentUpon>CNthemhanhkiemhocsinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangnhap.resx">
+      <DependentUpon>dangnhap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daylop.resx">
+      <DependentUpon>daylop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formchinh.resx">
+      <DependentUpon>formchinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="indsdiemtbmon.resx">
+      <DependentUpon>indsdiemtbmon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saplop.resx">
+      <DependentUpon>saplop.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
